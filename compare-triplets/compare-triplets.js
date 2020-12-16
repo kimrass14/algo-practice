@@ -24,4 +24,4 @@ function compareTriplets(a, b) {
     return score
 
 }
-compareTriplets(a, b)
+console.log(compareTriplets(a, b))
